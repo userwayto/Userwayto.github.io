@@ -1,0 +1,11 @@
+User-agent: *
+Crawl-delay: 30
+
+
+Sitemap: https://homecomfortcare.org/wp-content/sitemap_indexs.xml
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins
+Disallow: /wp-content/themes
+Disallow: /author
+Disallow: ?author
